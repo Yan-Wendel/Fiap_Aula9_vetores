@@ -10,7 +10,7 @@ public class exercicio3 {
 	        Random random = new Random();
 	        
 	        // Recebe o número inteiro n
-	        System.out.print("Digite um número inteiro positivo n: ");
+	        System.out.print("Digite um número inteiro positivo: ");
 	        int n = ler.nextInt();
 	        
 	        // Verifica se n é maior que 0
